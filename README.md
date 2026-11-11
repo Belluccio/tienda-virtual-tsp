@@ -21,6 +21,8 @@ Catálogo virtual web de artículos de tecnología con registro de clientes, bú
 | La inspección del diseño y sus defectos | [`docs/diseno/inspeccion-diseno-T10.md`](docs/diseno/inspeccion-diseno-T10.md) y [`docs/tspi/LOGD.csv`](docs/tspi/LOGD.csv) |
 | Las tareas T01–T32 y su estado | Pestaña **Issues** (una por tarea, agrupadas por *milestone* S1–S8) |
 | Los registros de tiempo y defectos | [`docs/tspi/`](docs/tspi/) |
+| El seguimiento semanal (valor planeado vs. ganado) | [`docs/seguimiento/`](docs/seguimiento/) |
+| La verificación de calidad antes de entregar | [`docs/proceso/verificacion-entrega1.md`](docs/proceso/verificacion-entrega1.md) |
 
 ## Equipo y roles
 
@@ -38,6 +40,19 @@ Catálogo virtual web de artículos de tecnología con registro de clientes, bú
 | `[SOPORTE]` | Gerente de soporte | Repositorio, entorno, versiones y releases |
 
 Para ver solo el trabajo de un rol: `git log --oneline --grep="\[CALIDAD\]"`
+
+### Commits por rol (corte Entrega 1)
+
+| Rol | Commits | % |
+|---|---|---|
+| `[LIDER]` | 6 | 22 % |
+| `[DESARROLLO]` | 6 | 22 % |
+| `[PLANEACION]` | 5 | 18 % |
+| `[CALIDAD]` | 5 | 18 % |
+| `[SOPORTE]` | 5 | 18 % |
+| **Total** | **27** | 100 % |
+
+Para actualizar esta tabla: `bash scripts/commits-por-rol.sh`
 
 ## Tecnologías
 
