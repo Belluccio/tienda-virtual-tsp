@@ -7,7 +7,7 @@
 
 <!-- Descripción breve -->
 
-## Revisión `[CALIDAD]` (sesión distinta, ≥ 12 h después de construir)
+## Revisión `[CALIDAD]` (en una sesión distinta a la de construcción)
 
 - [ ] Cumple el criterio de aceptación
 - [ ] Checklist de revisión aplicada (`docs/proceso/checklist-revision.md`)

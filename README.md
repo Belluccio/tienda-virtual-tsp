@@ -25,7 +25,7 @@ Catálogo virtual web de artículos de tecnología con registro de clientes, bú
 
 El subgrupo tiene **un solo integrante**, que asume los cinco roles del TSPi. Para mantener la separación de responsabilidades que propone TSP:
 
-1. Cada rol trabaja en **sesiones distintas** (por ejemplo, el rol de calidad revisa al menos 12 horas después de que el rol de desarrollo construye).
+1. Cada rol trabaja en **sesiones distintas** (por ejemplo, el rol de calidad revisa en una sesión distinta a la que usó el rol de desarrollo para construir).
 2. Cada commit lleva **el prefijo del rol** que lo produce:
 
 | Prefijo | Rol TSPi | Qué se ve en sus commits |

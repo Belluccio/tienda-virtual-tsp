@@ -30,7 +30,7 @@
 
 | Dificultad | Acción acordada |
 |---|---|
-| Quien construye también verifica la calidad. | Inspección mínimo 12 h después de construir, con checklist y registro en LOGD. |
+| Quien construye también verifica la calidad. | Inspección en una sesión distinta a la de construcción, con checklist y registro en LOGD. |
 
 ## Compromisos
 

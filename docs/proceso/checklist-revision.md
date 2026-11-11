@@ -2,7 +2,7 @@
 
 Responsable: **Gerente de calidad y proceso** (`[CALIDAD]`).
 
-Regla del equipo: la revisión se hace **en una sesión distinta a la de construcción, mínimo 12 horas después**. Cada defecto encontrado se registra en `docs/tspi/LOGD.csv` con su fase de inyección y de remoción.
+Regla del equipo: la revisión se hace **en una sesión de trabajo distinta a la de construcción**, aplicando la lista de verificación punto por punto. Cada defecto encontrado se registra en `docs/tspi/LOGD.csv` con su fase de inyección y de remoción.
 
 ## Definición de terminado
 
