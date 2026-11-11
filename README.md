@@ -61,10 +61,10 @@ Para ver solo el trabajo de un rol: `git log --oneline --grep="\[CALIDAD\]"`
 
 ## Instalación (local)
 
-> Disponible desde la semana 4, cuando se integre el primer módulo.
+La base de datos ya se puede instalar; la aplicación web se integra desde la semana 4.
 
 1. Clonar el repositorio dentro de `htdocs` de XAMPP.
-2. Crear la base de datos ejecutando `database/schema.sql` y luego `database/seed.sql`.
+2. Crear la base de datos con `database/schema.sql` y cargar los 20 artículos con `database/seed.sql` (en phpMyAdmin: pestaña **Importar**, o por consola: `mysql -u root < database/schema.sql`).
 3. Copiar `app/config.example.php` a `app/config.php` y ajustar las credenciales.
 4. Abrir `http://localhost/tienda-virtual-tsp/public/`.
 
