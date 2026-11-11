@@ -32,3 +32,5 @@ Defectos registrados en [`docs/tspi/LOGD.csv`](../tspi/LOGD.csv).
 ## Decisión
 
 El diseño se **aprueba con correcciones**. Cuando se corrijan D01–D03, se puede iniciar T11 (carga de los 20 artículos).
+
+**Verificación de correcciones:** D01, D02 y D03 corregidos en el commit `[DESARROLLO] fix(diseno)` y verificados contra la lista. Diseño aprobado.
