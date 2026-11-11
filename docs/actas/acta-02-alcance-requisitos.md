@@ -4,11 +4,11 @@
 |---|---|
 | Fecha | Jueves 05/11/2026 |
 | Hora | 7:00 p. m. – 8:00 p. m. |
-| Modalidad | Virtual – sesión de trabajo individual (equipo unipersonal) |
+| Modalidad | Virtual – sesión de trabajo por roles |
 | Moderó | DB – Líder de equipo |
 | Registró el acta | DB – Gerente de planeación |
 | Asistentes | Danilo Belluccio (DB) |
-| Ausentes | Ninguno (equipo unipersonal) |
+| Ausentes | Ninguno |
 | Propósito | Definir el alcance, las exclusiones y los requisitos con sus criterios de aceptación. |
 
 ## Temas tratados y avances revisados

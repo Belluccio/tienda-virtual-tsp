@@ -1,6 +1,6 @@
 # Roles TSPi del equipo
 
-Equipo unipersonal: **Danilo Belluccio (DB)** es titular de los cinco roles. No hay suplentes; si la tutora asigna nuevos integrantes, los roles se redistribuyen y el cambio se registra en el historial de versiones del plan.
+**Danilo Belluccio (DB)** es titular de los cinco roles y ejerce cada uno de forma completa, como práctica de desarrollo *full stack* de todo el ciclo del producto. Cada rol tiene sus propias sesiones de trabajo, sus evidencias y su prefijo de commit, de modo que su aporte se puede verificar por separado.
 
 | Rol | Responsabilidades en este proyecto | Evidencia en el repositorio |
 |---|---|---|

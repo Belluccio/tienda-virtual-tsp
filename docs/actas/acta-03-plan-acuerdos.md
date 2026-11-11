@@ -4,11 +4,11 @@
 |---|---|
 | Fecha | Martes 10/11/2026 |
 | Hora | 8:00 p. m. – 9:30 p. m. |
-| Modalidad | Virtual – sesión de trabajo individual (equipo unipersonal) |
+| Modalidad | Virtual – sesión de trabajo por roles |
 | Moderó | DB – Líder de equipo |
 | Registró el acta | DB – Gerente de planeación |
 | Asistentes | Danilo Belluccio (DB) |
-| Ausentes | Ninguno (equipo unipersonal) |
+| Ausentes | Ninguno |
 | Propósito | Aprobar el plan del proyecto, el balance de carga y los acuerdos de trabajo. |
 
 ## Temas tratados y avances revisados

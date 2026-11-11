@@ -4,11 +4,11 @@
 |---|---|
 | Fecha | Jueves 29/10/2026 |
 | Hora | 7:00 p. m. – 8:30 p. m. |
-| Modalidad | Virtual – sesión de trabajo individual (equipo unipersonal) |
+| Modalidad | Virtual – sesión de trabajo por roles |
 | Moderó | DB – Líder de equipo |
 | Registró el acta | DB – Gerente de planeación |
 | Asistentes | Danilo Belluccio (DB) |
-| Ausentes | Ninguno (equipo unipersonal) |
+| Ausentes | Ninguno |
 | Propósito | Lanzamiento del proyecto: comprender el enunciado, asignar los roles TSPi y definir herramientas. |
 
 ## Temas tratados y avances revisados
@@ -23,7 +23,7 @@
 
 | Decisión | Justificación |
 |---|---|
-| DB asume los cinco roles TSPi. | El subgrupo no tiene más integrantes asignados. |
+| DB ejerce los cinco roles TSPi de forma completa. | Objetivo de formación full stack: recorrer y dominar todo el ciclo del producto, del plan a la entrega. |
 | Usar HTML/CSS/JS + PHP/MySQL y GitHub del propietario. | Stack dominado por el integrante; evita tiempo de capacitación (LF3, sección 1.4). |
 | Identificar cada commit con el prefijo del rol. | Deja evidencia de la actividad de cada rol sin coautores. |
 
@@ -31,7 +31,7 @@
 
 | Dificultad | Acción acordada |
 |---|---|
-| Ausencia de compañeros para suplencias y revisiones cruzadas. | Revisiones en sesiones separadas con lista de verificación; informar a la tutora en el encuentro del martes. |
+| Garantizar que cada rol se ejerza completo y que su trabajo se pueda verificar por separado. | Sesiones de trabajo por rol, prefijo de rol en cada commit y revisión de calidad en sesión independiente con checklist. |
 
 ## Compromisos
 

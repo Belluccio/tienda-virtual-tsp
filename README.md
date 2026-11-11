@@ -24,10 +24,10 @@ Catálogo virtual web de artículos de tecnología con registro de clientes, bú
 
 ## Equipo y roles
 
-El subgrupo tiene **un solo integrante**, que asume los cinco roles del TSPi. Para mantener la separación de responsabilidades que propone TSP:
+**Danilo Belluccio ejerce los cinco roles del TSPi de forma completa.** Este proyecto está planteado como una práctica *full stack* de todo el ciclo de un producto de software: liderar, planear, construir, asegurar la calidad, dar soporte y entregar. Cada rol hace su trabajo completo, con las mismas responsabilidades, sesiones y evidencias que tendría si lo desempeñara una persona distinta:
 
-1. Cada rol trabaja en **sesiones distintas** (por ejemplo, el rol de calidad revisa en una sesión distinta a la que usó el rol de desarrollo para construir).
-2. Cada commit lleva **el prefijo del rol** que lo produce:
+1. Cada rol trabaja en **sesiones propias** (por ejemplo, el rol de calidad revisa en una sesión distinta a la que usó el rol de desarrollo para construir).
+2. Cada commit lleva **el prefijo del rol** que lo produce, para que el aporte de cada uno se pueda revisar por separado:
 
 | Prefijo | Rol TSPi | Qué se ve en sus commits |
 |---|---|---|
