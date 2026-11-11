@@ -33,6 +33,7 @@ Tarea **T09** · Rol `[DESARROLLO]` · Requisitos R03–R08
 │ Descripción completa…                                            │
 │ Características: Pantalla: … · Memoria: … · Batería: …           │
 │ Error: «La cantidad debe estar entre 1 y 12» / sin sesión → login│
+│ Stock 0 → «AGOTADO» y el botón [Agregar] queda deshabilitado     │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
@@ -61,5 +62,7 @@ Tarea **T09** · Rol `[DESARROLLO]` · Requisitos R03–R08
 │ Artículos: 3                         TOTAL A PAGAR: $ 2.800.000  │
 │ [Seguir comprando]                            [Confirmar pedido] │
 │ Confirmado → «Pedido N.º 0001 registrado» y carrito vacío        │
+│ Stock agotado al confirmar → «No hay stock suficiente de: …»     │
+│ Carrito vacío → «Tu carrito está vacío» + [Ir al catálogo]       │
 └──────────────────────────────────────────────────────────────────┘
 ```

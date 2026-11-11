@@ -57,6 +57,7 @@ CREATE TABLE pedidos (
   fecha      DATETIME      NOT NULL DEFAULT CURRENT_TIMESTAMP,
   total      DECIMAL(12,2) NOT NULL,
   estado     ENUM('confirmado','cancelado') NOT NULL DEFAULT 'confirmado',
+  CONSTRAINT ck_pedidos_total CHECK (total >= 0),
   CONSTRAINT fk_pedidos_usuario FOREIGN KEY (usuario_id) REFERENCES usuarios(id)
 ) ENGINE=InnoDB;
 
@@ -69,6 +70,7 @@ CREATE TABLE pedido_detalle (
   precio_unitario DECIMAL(12,2) NOT NULL,
   subtotal        DECIMAL(12,2) NOT NULL,
   CONSTRAINT ck_detalle_cantidad CHECK (cantidad >= 1),
+  CONSTRAINT ck_detalle_subtotal CHECK (subtotal >= 0),
   CONSTRAINT fk_detalle_pedido   FOREIGN KEY (pedido_id)   REFERENCES pedidos(id) ON DELETE CASCADE,
   CONSTRAINT fk_detalle_articulo FOREIGN KEY (articulo_id) REFERENCES articulos(id)
 ) ENGINE=InnoDB;
