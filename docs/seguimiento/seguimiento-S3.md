@@ -9,7 +9,7 @@ Responsable: **DB – Gerente de planeación** `[PLANEACION]` · Semana: 09/11 �
 | T08 | Diseñar base de datos (modelo E-R y script SQL) | DB – Desarrollo | 2,0 | ✅ Terminada |
 | T09 | Diseñar interfaz (wireframes de catálogo, detalle, login y carrito) | DB – Desarrollo | 2,0 | ✅ Terminada |
 | T10 | Inspección del diseño con lista de verificación | DB – Calidad | 1,0 | ✅ Terminada |
-| T11 | Cargar 20 artículos con imágenes (script semilla) | DB – Desarrollo | 2,0 | ✅ Terminada |
+| T11 | Cargar 20 artículos (script semilla con rutas de imagen) | DB – Desarrollo | 2,0 | ✅ Terminada |
 | T12 | Consolidar y enviar la Entrega 1 | DB – Planeación | 1,5 | ⏳ Pendiente |
 | T32 | Seguimiento semanal del plan | DB – Planeación | 0,5 | ✅ Este reporte |
 

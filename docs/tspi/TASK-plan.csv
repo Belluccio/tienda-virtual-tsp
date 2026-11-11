@@ -9,20 +9,20 @@ T07,"Reunión de plan, acuerdos de trabajo y lista de verificación de calidad",
 T08,Diseñar base de datos (modelo E-R y script SQL),"R01, R05, R09",Diseño,DB – Desarrollo,2,S3,T05,Modelo E-R y database/schema.sql
 T09,"Diseñar interfaz (wireframes de catálogo, detalle, login y carrito)",R03–R08,Diseño,DB – Desarrollo,2,S3,T05,Wireframes en /docs/diseno
 T10,Inspección del diseño con lista de verificación,R01–R09,Revisión del diseño,DB – Calidad,1,S3,"T08, T09",Checklist diligenciada y LOGD
-T11,Cargar 20 artículos con imágenes (script semilla),R05,Implementación,DB – Desarrollo,2,S3,T10,database/seed.sql integrado
+T11,Cargar 20 artículos (script semilla con rutas de imagen),R05,Implementación,DB – Desarrollo,2,S3,T10,database/seed.sql integrado
 T12,Consolidar y enviar la Entrega 1,—,Gestión,DB – Planeación,1.5,S3,T07,Documento enviado en el campus
-T13,Implementar registro de clientes,R01,Implementación,DB – Desarrollo,3,S4,T08,Commit [DESARROLLO] en main
-T14,Implementar inicio y cierre de sesión,R02,Implementación,DB – Desarrollo,2,S4,T13,Commit [DESARROLLO] en main
-T15,Implementar catálogo y detalle ampliado,"R05, R06",Implementación,DB – Desarrollo,3,S4,T11,Commit [DESARROLLO] en main
+T13,Implementar registro de clientes,R01,Implementación,DB – Desarrollo,3,S4,T08,Commits [DESARROLLO] en rama feature/Rxx
+T14,Implementar inicio y cierre de sesión,R02,Implementación,DB – Desarrollo,2,S4,T13,Commits [DESARROLLO] en rama feature/Rxx
+T15,"Implementar catálogo, detalle ampliado e imágenes de los artículos","R05, R06",Implementación,DB – Desarrollo,3,S4,T11,Commits [DESARROLLO] en rama feature/Rxx
 T16,"Revisión de código de R01, R02, R05 y R06","R01, R02, R05, R06",Revisión del código,DB – Calidad,1,S4,T13–T15,Pull request aprobado y LOGD
-T17,Implementar búsqueda básica,R03,Implementación,DB – Desarrollo,1.5,S5,T15,Commit [DESARROLLO] en main
-T18,Implementar búsqueda avanzada,R04,Implementación,DB – Desarrollo,2.5,S5,T17,Commit [DESARROLLO] en main
+T17,Implementar búsqueda básica,R03,Implementación,DB – Desarrollo,1.5,S5,T15,Commits [DESARROLLO] en rama feature/Rxx
+T18,Implementar búsqueda avanzada,R04,Implementación,DB – Desarrollo,2.5,S5,T17,Commits [DESARROLLO] en rama feature/Rxx
 T19,Revisión de código de R03 y R04,"R03, R04",Revisión del código,DB – Calidad,0.5,S5,T18,Pull request aprobado y LOGD
 T20,Pruebas funcionales de R01–R06,R01–R06,Pruebas,DB – Calidad,2,S5,"T16, T19",Casos de prueba aprobados
 T21,Relanzamiento y consolidado de la Entrega 2,—,Gestión,DB – Planeación,2,S5,T20,Actas de lanzamiento y reportes
-T22,Implementar compra por artículo,R07,Implementación,DB – Desarrollo,2.5,S6,"T14, T15",Commit [DESARROLLO] en main
-T23,Implementar carrito de compras,R08,Implementación,DB – Desarrollo,3,S6,T22,Commit [DESARROLLO] en main
-T24,Implementar confirmación y registro del pedido,R09,Implementación,DB – Desarrollo,2,S6,T23,Commit [DESARROLLO] en main
+T22,Implementar compra por artículo,R07,Implementación,DB – Desarrollo,2.5,S6,"T14, T15",Commits [DESARROLLO] en rama feature/Rxx
+T23,Implementar carrito de compras,R08,Implementación,DB – Desarrollo,3,S6,T22,Commits [DESARROLLO] en rama feature/Rxx
+T24,Implementar confirmación y registro del pedido,R09,Implementación,DB – Desarrollo,2,S6,T23,Commits [DESARROLLO] en rama feature/Rxx
 T25,Revisión de código de R07–R09,R07–R09,Revisión del código,DB – Calidad,1,S6,T24,Pull request aprobado y LOGD
 T26,Pruebas de integración y de aceptación R01–R09,R01–R09,Pruebas,DB – Calidad,3,S7,T25,Matriz de aceptación al 100 %
 T27,Corrección de defectos encontrados,R01–R09,Pruebas,DB – Desarrollo,2.5,S7,T26,Defectos cerrados en LOGD

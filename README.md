@@ -45,12 +45,12 @@ Para ver solo el trabajo de un rol: `git log --oneline --grep="\[CALIDAD\]"`
 
 | Rol | Commits | % |
 |---|---|---|
-| `[LIDER]` | 6 | 22 % |
-| `[DESARROLLO]` | 6 | 22 % |
-| `[PLANEACION]` | 5 | 18 % |
-| `[CALIDAD]` | 5 | 18 % |
-| `[SOPORTE]` | 5 | 18 % |
-| **Total** | **27** | 100 % |
+| `[LIDER]` | 7 | 24 % |
+| `[DESARROLLO]` | 6 | 20 % |
+| `[PLANEACION]` | 6 | 20 % |
+| `[CALIDAD]` | 5 | 17 % |
+| `[SOPORTE]` | 5 | 17 % |
+| **Total** | **29** | 100 % |
 
 Para actualizar esta tabla: `bash scripts/commits-por-rol.sh`
 

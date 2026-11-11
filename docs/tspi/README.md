@@ -1,6 +1,6 @@
 # Registros TSPi
 
-Formularios del **TSPi Workbook (versión 20041202)** que el equipo mantiene semana a semana. Responsable de consolidarlos: **Gerente de planeación** (`[PLANEACION]`), cada domingo antes de la reunión de seguimiento.
+Formularios del **TSPi Workbook (versión 20041202)**, llevados como archivos CSV (se abren en Excel), que el equipo mantiene semana a semana. Responsable de consolidarlos: **Gerente de planeación** (`[PLANEACION]`), cada domingo antes de la reunión de seguimiento.
 
 | Archivo | Formulario TSPi | Contenido |
 |---|---|---|
