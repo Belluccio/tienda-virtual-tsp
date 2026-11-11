@@ -1,0 +1,12 @@
+# Configuración local con credenciales
+app/config.php
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporales de Office
+~$*
+*.tmp
