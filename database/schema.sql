@@ -5,8 +5,10 @@
 -- como pedido + detalle (R09).
 -- =====================================================================
 
+SET NAMES utf8mb4;  -- evita que las tildes se dañen al importar
+
 CREATE DATABASE IF NOT EXISTS tienda_virtual_tsp
-  CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
+  CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;  -- insensible a mayúsculas y tildes (R03)
 USE tienda_virtual_tsp;
 
 -- R01, R02: clientes registrados
