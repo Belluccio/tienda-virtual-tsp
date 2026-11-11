@@ -18,6 +18,7 @@ Catálogo virtual web de artículos de tecnología con registro de clientes, bú
 | Cómo se identifica el trabajo de cada rol en los commits | [`docs/proceso/convencion-commits.md`](docs/proceso/convencion-commits.md) |
 | Las reglas de revisión y calidad | [`docs/proceso/checklist-revision.md`](docs/proceso/checklist-revision.md) |
 | El diseño (modelo de datos y pantallas) | [`docs/diseno/`](docs/diseno/) y [`database/`](database/) |
+| La inspección del diseño y sus defectos | [`docs/diseno/inspeccion-diseno-T10.md`](docs/diseno/inspeccion-diseno-T10.md) y [`docs/tspi/LOGD.csv`](docs/tspi/LOGD.csv) |
 | Las tareas T01–T32 y su estado | Pestaña **Issues** (una por tarea, agrupadas por *milestone* S1–S8) |
 | Los registros de tiempo y defectos | [`docs/tspi/`](docs/tspi/) |
 
@@ -51,7 +52,7 @@ Para ver solo el trabajo de un rol: `git log --oneline --grep="\[CALIDAD\]"`
 |---|---|---|---|
 | S1 | 26/10 – 01/11 | Lanzamiento: roles y repositorio | ✅ |
 | S2 | 02/11 – 08/11 | Alcance y requisitos definidos | ✅ |
-| S3 | 09/11 – 15/11 | **Entrega 1** · diseño inspeccionado y 20 artículos cargados | 🔄 En curso |
+| S3 | 09/11 – 15/11 | **Entrega 1** · diseño inspeccionado y 20 artículos cargados | ✅ |
 | S4 | 16/11 – 22/11 | Registro, sesión y catálogo | ⏳ |
 | S5 | 23/11 – 29/11 | **Entrega 2** · búsquedas y pruebas R01–R06 | ⏳ |
 | S6 | 30/11 – 06/12 | Compra, carrito y pedido | ⏳ |
