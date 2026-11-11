@@ -17,7 +17,7 @@
 |---|---|---|
 | Revisión de compromisos del acta N.º 2 | T05 y T06 terminadas. | Secciones 1.5 y 3 del plan |
 | Plan y carga | 64 h planeadas frente a 70 h disponibles; ninguna semana supera su disponibilidad. | Sección 3.4 del plan |
-| Acuerdos y calidad | Se aprobaron los acuerdos de trabajo y la lista de verificación de revisión. | Sección 2.3 y /docs/checklist |
+| Acuerdos y calidad | Se aprobaron los acuerdos de trabajo y la lista de verificación de revisión. | Sección 2.3 y docs/proceso/checklist-revision.md |
 
 ## Decisiones tomadas
 

@@ -15,7 +15,7 @@
 
 | Tema | Resumen | Evidencia |
 |---|---|---|
-| Revisión de compromisos del acta N.º 1 | T02 y T03 terminadas; repositorio y tablero operativos. | Tablero GitHub Projects |
+| Revisión de compromisos del acta N.º 1 | T02 y T03 terminadas; repositorio y tablero operativos. | Issues y milestones del repositorio |
 | Alcance y exclusiones | Se acordaron los módulos incluidos y las funciones excluidas. | Sección 1.4 del plan |
 | Requisitos | Se redactaron R01–R09 con criterios verificables. | Sección 1.5 del plan |
 

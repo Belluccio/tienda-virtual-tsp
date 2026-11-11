@@ -15,7 +15,7 @@
 
 | Tema | Resumen | Evidencia |
 |---|---|---|
-| Enunciado del proyecto | Se revisaron los seis módulos exigidos y el mínimo de 20 artículos. | Enunciado en /docs |
+| Enunciado del proyecto | Se revisaron los seis módulos exigidos y el mínimo de 20 artículos. | Enunciado publicado en el campus (escenario 3) |
 | Roles TSPi | Se revisaron los cinco roles del TSPi Workbook y su relación con los nueve roles de la Lectura Fundamental 3. | Sección 2.2 del plan |
 | Herramientas | Se eligió el stack y el esquema de repositorio y tablero. | Sección 1.7 del plan |
 
