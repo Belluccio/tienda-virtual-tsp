@@ -1,1 +1,4 @@
 ID,Fecha,Tarea,Tipo,Fase_inyeccion,Fase_remocion,Tiempo_correccion_min,Descripcion
+D01,10/11/2026,T09,Interfaz (función faltante),Diseño,Revisión del diseño,,Detalle sin comportamiento para stock 0 (R07)
+D02,10/11/2026,T09,Interfaz (función faltante),Diseño,Revisión del diseño,,Carrito sin estado vacío ni bloqueo por stock agotado (R08/R09)
+D03,10/11/2026,T08,Datos (restricción faltante),Diseño,Revisión del diseño,,total y subtotal sin restricción de valor no negativo
