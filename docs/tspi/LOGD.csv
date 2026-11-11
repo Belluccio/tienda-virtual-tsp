@@ -2,3 +2,5 @@ ID,Fecha,Tarea,Tipo,Fase_inyeccion,Fase_remocion,Tiempo_correccion_min,Descripci
 D01,10/11/2026,T09,Interfaz (función faltante),Diseño,Revisión del diseño,,Detalle sin comportamiento para stock 0 (R07)
 D02,10/11/2026,T09,Interfaz (función faltante),Diseño,Revisión del diseño,,Carrito sin estado vacío ni bloqueo por stock agotado (R08/R09)
 D03,10/11/2026,T08,Datos (restricción faltante),Diseño,Revisión del diseño,,total y subtotal sin restricción de valor no negativo
+D04,10/11/2026,T08,Datos (configuración),Diseño,Pruebas (carga T11),,Collation utf8mb4_spanish_ci distingue tildes: «audifonos» no encontraba «Audífonos» (R03)
+D05,10/11/2026,T08,Datos (configuración),Diseño,Pruebas (carga T11),,Scripts sin SET NAMES utf8mb4: tildes dañadas al importar con cliente latin1
